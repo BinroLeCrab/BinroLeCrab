@@ -1,4 +1,4 @@
-- 👋 Salut, moi c'est Robin, ou **@BinroLeCrab** sur internet
+- 👋 Salut, moi c'est **Robin**, ou **@BinroLeCrab** sur internet
 - 👀 Je suis intérréssé par **la Musique, le creative coding, le design UI, le graphisme** et plein d'autres choses ...
 - 🌱 En ce moment j'apprend surtout à developper, sous-entendu le **le dévelloppement Front-end et le design UI** dans le cadre de ma formation en BUT Métier du Multimédia et de l'Internet à l'IUT de Champs sur Marne
 <!--- - 💞️ I’m looking to collaborate on ...--->
