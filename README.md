@@ -10,7 +10,7 @@
 
 
 - 💾 Si mon profil vous intéresse, vous pouvez faire un tour sur mon **portfolio** www.robin-vigier.webflow.io.
-- 🔍 Je recherche actuellement **un stage de 3 mois dans le développement front-end et l'UI design pour le mois d'avril 2024**.
+- 🔍 Je recherche actuellement **un stage de 11 semaines dans le développement front-end et l'UI design pour le mois d'avril 2024**.
 
 <!---
 BinroLeCrab/BinroLeCrab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
