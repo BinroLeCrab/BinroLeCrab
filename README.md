@@ -9,7 +9,7 @@
 - 📫 Vous pouvez me contacter par **mail** juste là -> robin.vigier.pro@gmail.com.
 
 
-- 💾 Si mon profil vous intéresse, vous pouvez faire un tour sur mon **portfolio** [robinvigier.fr|https://robinvigier.fr]
+- 💾 Si mon profil vous intéresse, vous pouvez faire un tour sur mon **portfolio** [robinvigier.fr](https://robinvigier.fr).
 - 🔍 Je recherche actuellement **un stage de 11 semaines dans le développement front-end et l'UI design pour le mois d'avril 2024**.
 
 <!---
